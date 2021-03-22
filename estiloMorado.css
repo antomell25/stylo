@@ -1,0 +1,41 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.titulo{
+    background-color: rgb(29, 112, 108);
+     /*border: 1px solid black;*/
+     text-align: center;
+     font-size: 25px;
+     color: white;
+     padding: 10px 0px;
+}
+
+.caja h3{
+    padding-left: 10px;
+    padding-bottom: 3px;
+}
+.caja p{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 40px;
+}
+.caja{
+    width: 90%;
+    /*height: 300px;*/
+    border-radius: 28px;
+    background-color: rgb(56, 22, 56);
+    color: white;
+    margin: 15px 5%;
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.caja img{
+    width: 100%;
+    border-radius: 25px  0 0 25px;
+    padding-bottom: 5px;
+}
